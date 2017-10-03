@@ -1,6 +1,6 @@
 # hello-world
-Testing Github
-I am female.
-I am married.
-I live in Southern New Jersey.
-I have a dog and two cats.
+
+I am female.\n
+I am married.\n
+I live in Southern New Jersey.\n
+I have a dog and two cats.\n
